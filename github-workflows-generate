@@ -75,7 +75,7 @@ do
       matrix:
         pkg: [$ITEMS]
 
-    runs-on: macos-15-large
+    runs-on: macos-13
 
     steps:
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
