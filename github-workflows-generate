@@ -16,7 +16,7 @@ sed -n '/^dep-pkg:/p' *.yml | cut -c10- | tr ' ' '\n' | sort | uniq > b
 
 SED="sed -e s|^-||"
 
-for item in docbook intltool crosstool-ng mpdecimal timg watchman    bc gindent groff libmpir
+for item in docbook intltool crosstool-ng mpdecimal timg watchman    bc gindent groff libmpir    texinfo mist-cli lowdown python@3.12
 do
     SED="$SED -e /^$item$/d"
 done
