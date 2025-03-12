@@ -1,0 +1,5 @@
+summary: X.Org Pixmap (XPM) image file format library
+webpage: https://www.x.org/
+version: 3.5.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/xorg-libxpm-3.5.17-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: ee2eb60d1965c3fe086c8463bc367b3090edbb119b0a25975cd82a47843c6a71

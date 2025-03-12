@@ -1,0 +1,5 @@
+summary: A static analysis tool for C/C++ code
+webpage: https://sourceforge.net/projects/cppcheck
+version: 2.14.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/cppcheck-2.14.1-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e9ab280eacd893f796d0c9197c525fcc47eba818abc8c2deaf40aa7d55cda931

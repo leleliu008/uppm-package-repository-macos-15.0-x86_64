@@ -1,0 +1,5 @@
+summary: GNU Transport Layer Security (TLS) Library
+webpage: https://gnutls.org
+version: 3.8.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/gnutls-3.8.4-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: a40a728f79b812f3051fac612ac13e86d516bf38bcaa36a90b0bd523392c1dbe

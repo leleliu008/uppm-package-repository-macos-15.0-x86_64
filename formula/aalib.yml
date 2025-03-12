@@ -1,0 +1,5 @@
+summary: Portable ASCII art graphics library
+webpage: https://aa-project.sourceforge.io/aalib/
+version: 1.4rc5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/aalib-1.4rc5-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 0f68d2e22e9cb9bb7a397692fd353ae28afa2e28c7bc7f8aa275de0e989f6c30

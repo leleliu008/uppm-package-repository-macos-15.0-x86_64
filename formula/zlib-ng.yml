@@ -1,0 +1,5 @@
+summary: Zlib replacement with optimizations for next generation systems
+webpage: https://github.com/zlib-ng/zlib-ng
+version: 2.1.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/zlib-ng-2.1.6-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 922f0e919b71ef954107ae20d797206df35ac89917ff0d63d06af6c478d6ff61

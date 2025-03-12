@@ -1,0 +1,5 @@
+summary: A command-line tool to manipulate ELF files
+webpage: https://github.com/leleliu008/C-examples
+version: 2025.03.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/elftool-2025.03.11-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 7ba68724b96a62ca3f5d053455725e9541efb115e626f485615236913985de8b

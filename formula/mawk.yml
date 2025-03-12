@@ -1,0 +1,5 @@
+summary: Interpreter for the AWK Programming Language
+webpage: https://invisible-island.net/mawk/
+version: 1.3.4.20250131
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/mawk-1.3.4.20250131-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: aef6a7a843a8cfd53e5fc6788808dc4e4dde416752c5a2975ad472923158b834

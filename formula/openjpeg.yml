@@ -1,0 +1,5 @@
+summary: Library for JPEG-2000 image manipulation
+webpage: https://www.openjpeg.org/
+version: 2.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/openjpeg-2.5.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 8647b87d9e1bebb5836405df42ed6bc2c4bcb49e930155c76e49ef5b3f50f705

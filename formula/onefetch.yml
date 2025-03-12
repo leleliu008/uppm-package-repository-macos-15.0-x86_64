@@ -1,0 +1,5 @@
+summary: Command-line Git information tool
+webpage: https://github.com/o2sh/onefetch
+version: 2.21.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/onefetch-2.21.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: df0d6d8d4f8a46b1e906b7d1432f3c63c8a99b9c1ea8fdf592200a7e599c95ff

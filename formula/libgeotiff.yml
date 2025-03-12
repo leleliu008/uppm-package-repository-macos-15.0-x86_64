@@ -1,0 +1,5 @@
+summary: Library and tools for dealing with GeoTIFF
+webpage: https://github.com/OSGeo/libgeotiff
+version: 1.7.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libgeotiff-1.7.3-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 447c96e8ffba66b7530d8bcdf78eddd8f35caee2b10610e72ab3a115dea8c796

@@ -1,0 +1,5 @@
+summary: Convert pixel information into colored ASCII art
+webpage: http://caca.zoy.org/wiki/libcaca
+version: 0.99.beta20
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libcaca-0.99.beta20-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 8c2d91c634a558d850f96958bf0d6dd4f6d93d7486463c608898b44df53c359e

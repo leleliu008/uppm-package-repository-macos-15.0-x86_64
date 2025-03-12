@@ -1,0 +1,5 @@
+summary: Lynx-like WWW browser that supports tables, menus, etc
+webpage: http://links.twibright.com
+version: 2.30
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/links-2.30-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e2d4df5bb2ee8b3cf9ca37b435dc49cb8ca7abe812fe53326c0746ca6ecfa44e

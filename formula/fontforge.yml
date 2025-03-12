@@ -1,0 +1,5 @@
+summary: A set of command-line tools to create, edit and convert fonts in OpenType, TrueType, UFO, CID-keyed, Multiple Master, and many other formats
+webpage: https://fontforge.github.io
+version: 20230101
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/fontforge-20230101-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 1e373ea2ba28df1c2627bae49c65a3fb552f9cc327cc2f29a54963eface51e7d

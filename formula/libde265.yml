@@ -1,0 +1,5 @@
+summary: An open source implementation of the H.265 video codec
+webpage: https://github.com/strukturag/libde265
+version: 1.0.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libde265-1.0.15-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 0dc8b1ff5b85105647750821d074e4717a6a440caea5a8e8c984b0d1359db378

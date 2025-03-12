@@ -1,0 +1,5 @@
+summary: A modern Git CLI
+webpage: https://github.com/chriswalz/bit
+version: 1.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/bit-1.1.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e82934997f4ee1ba47ee1161e43a0ee4015087612781c35fb86b81693474464c

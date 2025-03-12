@@ -1,0 +1,5 @@
+summary: Upload multiple artifacts to GitHub Release in parallel
+webpage: https://tcnksm.github.io/ghr
+version: 0.16.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/ghr-0.16.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 6d67d41356d69e6444de4b76a13d9bcecfc9ded04f6432df0af4eb81dfc3e47c

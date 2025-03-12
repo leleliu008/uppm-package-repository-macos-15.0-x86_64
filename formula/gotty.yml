@@ -1,0 +1,5 @@
+summary: A simple command-line tool to share your terminal as a web application
+webpage: https://github.com/sorenisanerd/gotty
+version: 1.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/gotty-1.5.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 30cba6c1399fbae4469f130dab34499882000e8848aff9d2c8c112791e635698

@@ -1,0 +1,5 @@
+summary: XML-based font configuration library
+webpage: https://wiki.freedesktop.org/www/Software/fontconfig
+version: 2.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libfontconfig-2.15.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: b27c47b18b4bb970edc2d9f94ee4eb95b05aef6425059d1c868b65942fb487f3

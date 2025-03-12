@@ -1,0 +1,5 @@
+summary: YAML parser and emitter written in C++ for YAML 1.2 spec
+webpage: https://github.com/jbeder/yaml-cpp
+version: 0.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libyaml-cpp-0.8.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 9da02fb464104bdaf58d302f383ebda89df6aad45660bb8d29d478f0a0c2d5ae

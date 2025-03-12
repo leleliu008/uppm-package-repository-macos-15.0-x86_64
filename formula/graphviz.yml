@@ -1,0 +1,5 @@
+summary: An open source graph visualization software
+webpage: https://www.graphviz.org/
+version: 11.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/graphviz-11.0.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 1e7e8194c0d8c299c96da95f3a56690e9e7fbcacc33f05472e8dde1d8509b1ea

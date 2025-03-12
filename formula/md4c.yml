@@ -1,0 +1,5 @@
+summary: A fast, SAX-like Markdown parser for C
+webpage: https://github.com/mity/md4c
+version: 0.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/md4c-0.5.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 9f594a5bdf20befeb20b84936ac90c100b5863b4054a1c4c385c4adddc7da27d

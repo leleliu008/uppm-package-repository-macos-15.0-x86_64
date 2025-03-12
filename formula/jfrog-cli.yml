@@ -1,0 +1,5 @@
+summary: A command-line interface for Jfrog Artifactory and Bintray
+webpage: https://www.jfrog.com/confluence/display/CLI/JFrog+CLI
+version: 2.58.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/jfrog-cli-2.58.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e0424590243bc2db78a151f30eb4185e9a6d8d87a64a12fe3d90adb9bfc8353a

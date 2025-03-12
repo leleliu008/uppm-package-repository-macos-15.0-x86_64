@@ -1,0 +1,5 @@
+summary: A modern, portable, easy to use crypto library
+webpage: https://libsodium.org/
+version: 1.0.20
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libsodium-1.0.20-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 2038529f362e4388386c5d009d3900cd16ea35e80e6f24f968f22db7e2d5ce5f

@@ -1,0 +1,5 @@
+summary: Palette quantization library extracted from pnquant2
+webpage: https://pngquant.org/lib
+version: 4.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libimagequant-4.3.1-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: a984dc1a4c0115ebb47a92f6ced35947d914660e3a1c562accc747373816638c

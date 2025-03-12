@@ -1,0 +1,5 @@
+summary: X.Org FreeType library
+webpage: https://www.x.org/
+version: 2.3.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/xorg-libxft-2.3.8-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 6313476b873724f6368c488820fe036c3da3bd06d262bbafcfd555e07feb63b0

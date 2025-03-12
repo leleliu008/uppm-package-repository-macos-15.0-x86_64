@@ -1,0 +1,5 @@
+summary: A reference implementation of JPEG XL image format (encoder and decoder)
+webpage: https://jpeg.org/jpegxl/index.html
+version: 0.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libjxl-0.11.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 9e855c8364d000eccc8fb2b3ff7018c011a007fbe0d9032f303dcedae643b5a1

@@ -1,0 +1,5 @@
+summary: Text processing scripting language
+webpage: https://www.cs.princeton.edu/~bwk/btl.mirror/
+version: 20250116
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/awk-20250116-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 410dbf42a7f8c4b765099959c851b9d5e412ea22baef55f35e91a0424225ad0f

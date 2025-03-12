@@ -1,0 +1,5 @@
+summary: Z Shell
+webpage: https://www.zsh.org
+version: 5.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/zsh-5.9-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: c3e8582c092946ff44c71ee12fd51337224e1dc0dfcbde1c372627ec5e331546

@@ -1,0 +1,5 @@
+summary: A backup tool that provides fast, encrypted, deduplicated backups
+webpage: https://github.com/rustic-rs/rustic
+version: 0.9.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/rustic-0.9.5-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 55206af35d3d3a6c8aa6cfda161f1ef6c7907938e81b521750375af9216a73f5

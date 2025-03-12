@@ -1,0 +1,5 @@
+summary: Provides library functionality for FIDO U2F & FIDO 2.0, including USB
+webpage: https://developers.yubico.com/libfido2/
+version: 1.14.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libfido2-1.14.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 0fb54e9d2c5738ed8e8fa5cb4af570a1e07d9b36cd558a5696fea89fdaf103b1

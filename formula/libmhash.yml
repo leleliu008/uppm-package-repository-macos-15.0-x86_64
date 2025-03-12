@@ -1,0 +1,5 @@
+summary: A large number of hash algorithms
+webpage: https://mhash.sourceforge.net/
+version: 0.9.9.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libmhash-0.9.9.9-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: f97dea1527973dd223b96e16bd17393bb625246ccc7da8e83bd1eed52286deb9

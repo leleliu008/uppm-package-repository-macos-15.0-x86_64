@@ -1,0 +1,5 @@
+summary: A high performance JSON library written in ANSI C
+webpage: https://github.com/ibireme/yyjson
+version: 0.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/yyjson-0.9.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 17af76735f2746960b479a39938a810bf59670c3f2ef12b9ddc4b9274998db85

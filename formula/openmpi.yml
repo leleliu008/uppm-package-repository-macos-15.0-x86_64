@@ -1,0 +1,5 @@
+summary: High performance message passing library
+webpage: https://www.open-mpi.org
+version: 5.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/openmpi-5.0.3-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: aba99e87f600ab667674b85128a66357ae39140ffc0cf9d2e07b607eef0c0be8

@@ -1,0 +1,5 @@
+summary: A command-line tool for producing a Matrix-style animation
+webpage: https://github.com/abishekvashok/cmatrix
+version: 2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/cmatrix-2.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: b8b86d930a7581f831d6e35008f1141e57b1c951247bb2918acbaf8c36317df4

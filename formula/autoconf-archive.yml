@@ -1,0 +1,5 @@
+summary: A collection of over 500 reusable autoconf macros
+webpage: https://savannah.gnu.org/projects/autoconf-archive/
+version: 2023.02.20
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/autoconf-archive-2023.02.20-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e28e9511854b0d0e859f29eb22929ba2690df0109fcfc5a7ebf966ef8abf54d4

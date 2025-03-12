@@ -1,0 +1,5 @@
+summary: A portable package manager for Unix-like systems
+webpage: https://github.com/leleliu008/ppkg
+version: 0.1000.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/ppkg-0.1000.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 3f695c80d90db1e9bca8a89db18279eb5829ec0d0c423f474bbfcfa4089717c7

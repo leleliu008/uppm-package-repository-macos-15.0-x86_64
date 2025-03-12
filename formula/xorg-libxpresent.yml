@@ -1,0 +1,5 @@
+summary: X.org X Present Extension library
+webpage: https://gitlab.freedesktop.org/xorg/lib/libxpresent
+version: 1.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/xorg-libxpresent-1.0.1-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 12b703df0bc0cf4cd8b469ebc8e53b5b93ef02dea3ce3cb343db335019123723

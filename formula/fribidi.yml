@@ -1,0 +1,5 @@
+summary: A command-line interface to the libfribidi library and can be used to convert a logical string to visual output
+webpage: https://github.com/fribidi/fribidi
+version: 1.0.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/fribidi-1.0.16-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: f1009b7ca0b9e23d52e3d1016db4b0af5b574fa297e1460670e911d62cf9768c

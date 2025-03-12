@@ -1,0 +1,5 @@
+summary: CSS parsing and manipulation toolkit for GNOME
+webpage: https://gitlab.gnome.org/GNOME/libcroco
+version: 0.6.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libcroco-0.6.13-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e16fe00720f3b1c00e6193c483a138b2d6a4f6658fdb547a5962d8cdcbeb201b

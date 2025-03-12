@@ -1,0 +1,5 @@
+summary: Fast static site generator in a single binary with everything built-in
+webpage: https://www.getzola.org/
+version: 0.19.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/zola-0.19.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 6151f122d8760b662f182a23ff5aa1c00ba97ad7490a70c7779828736f335496

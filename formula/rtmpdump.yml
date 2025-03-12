@@ -1,0 +1,5 @@
+summary: A command-line tool for downloading RTMP streaming media
+webpage: https://rtmpdump.mplayerhq.hu
+version: 2.4+20151223
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/rtmpdump-2.4+20151223-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 2f71471cd24ade2fb883b898ae9cbcfd3361ffe3c89529b8d2ec1f3c8754c2e1

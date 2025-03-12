@@ -1,0 +1,5 @@
+summary: Open source programming language to build simple/reliable/efficient software
+webpage: https://go.dev/
+version: 1.21.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/golang-1.21.3-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: a8bc03cc32959c385c71c365a46898687a4e1085472d4cff03043532a9c21511

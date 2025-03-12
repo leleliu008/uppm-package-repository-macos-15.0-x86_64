@@ -1,0 +1,5 @@
+summary: Data wrangler with jq-like query language
+webpage: https://sq.io
+version: 0.48.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/sq-0.48.5-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: fa331d97c0cc2bacf96a88948f162de8289ff4c0f7fef400920bd5aec69f8436

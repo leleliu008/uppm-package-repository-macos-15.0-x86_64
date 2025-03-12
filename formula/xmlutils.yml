@@ -1,0 +1,5 @@
+summary: A collections of command-line utilities provided by libxml2
+webpage: http://xmlsoft.org
+version: 2.12.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/xmlutils-2.12.7-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e4c49f830d1d51a4a8650bc67d658b961c73bdfbfcce116cd0462b3ac4556326

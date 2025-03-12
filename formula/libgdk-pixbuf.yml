@@ -1,0 +1,5 @@
+summary: library for image loading and pixel buffer manipulation
+webpage: https://gtk.org/
+version: 2.42.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libgdk-pixbuf-2.42.12-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 8adfe3add72ff2f8de23c6932040982c836acef84769cc573ac15890d6a1a46e

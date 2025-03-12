@@ -1,0 +1,5 @@
+summary: X.Org protocol client library
+webpage: https://www.x.org/
+version: 1.8.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/xorg-libx11-1.8.7-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 95d329d375cb482015561c408977c56410cedb08f5f82dc8e92e4551a99dedb2

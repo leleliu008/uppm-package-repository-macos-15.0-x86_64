@@ -1,0 +1,5 @@
+summary: C library for encoding, decoding, and manipulating JSON
+webpage: https://digip.org/jansson
+version: 2.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libjansson-2.14-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: b6efdabf3a54ac19b3e20009ceaf2b15d4c661827712144c241e1d6201f6a7aa

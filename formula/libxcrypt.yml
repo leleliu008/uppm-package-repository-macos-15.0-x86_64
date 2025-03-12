@@ -1,0 +1,5 @@
+summary: Extended crypt library for descrypt, md5crypt, bcrypt, and others
+webpage: https://github.com/besser82/libxcrypt
+version: 4.4.36
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libxcrypt-4.4.36-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: beed475a012c480caf12387295eac7ad882bf597cd3132b59deeebc2b2a042c8

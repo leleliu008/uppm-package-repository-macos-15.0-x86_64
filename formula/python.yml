@@ -1,0 +1,5 @@
+summary: Interpreted, interactive, object-oriented programming language
+webpage: https://www.python.org/
+version: 3.13.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/python-3.13.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 1a4bfc9c48f312577d5381c3d8a038ac464afedf727df8c8489448b888006fbd

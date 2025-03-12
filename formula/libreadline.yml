@@ -1,0 +1,5 @@
+summary: Library for command-line editing
+webpage: https://www.gnu.org/software/readline
+version: 8.2.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libreadline-8.2.13-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e650b541a9a00c65a4b8efbeb05d2fb4c3cea0f9a2c87180b44307fd907c269c

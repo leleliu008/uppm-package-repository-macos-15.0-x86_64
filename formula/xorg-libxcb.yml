@@ -1,0 +1,5 @@
+summary: X.Org Interface to the X Window System protocol
+webpage: https://www.x.org/
+version: 1.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/xorg-libxcb-1.15-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: d0d8a1005f4c5fb42e3fd2b8292302e49312098a8c661587977e6c94583eafc1

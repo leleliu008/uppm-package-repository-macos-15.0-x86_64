@@ -1,0 +1,5 @@
+summary: Simple and intuitive command-line parser for C++11
+webpage: https://cliutils.github.io/CLI11/book/
+version: 2.4.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/cli11-2.4.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e7811f2f3ed2f38267e2e9fcfe2aa56858231fc83d25a84908f6087469e51cc5

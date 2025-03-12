@@ -1,0 +1,5 @@
+summary: Network authentication protocol
+webpage: https://web.mit.edu/kerberos/
+version: 1.21.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libkrb5-1.21.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: d2b3c52e4bd61c1f9e0c718550537228636337b8c213fde52e83f2369e8e2688

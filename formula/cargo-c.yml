@@ -1,0 +1,5 @@
+summary: A helper program to build and install C-ABI compatible dynamic and static libraries
+webpage: https://github.com/lu-zero/cargo-c
+version: 0.10.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/cargo-c-0.10.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 1a715780eaf934af1633e58925e62ac7d03c01812a6a19eeb66335f5e188c57f

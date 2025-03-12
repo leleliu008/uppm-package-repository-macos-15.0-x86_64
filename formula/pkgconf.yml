@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 2.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/pkgconf-2.1.1-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 77ff366592466c4c666849304d6689feca823d6a826b692c78bfea3453227182

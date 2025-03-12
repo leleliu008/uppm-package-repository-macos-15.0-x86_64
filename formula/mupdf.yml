@@ -1,0 +1,5 @@
+summary: Lightweight PDF and XPS viewer
+webpage: https://mupdf.com/
+version: 1.25.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/mupdf-1.25.4-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: f87f35a3e409cdeb777bdee58571776db6db03bdd392885a4f150c1918b3e87b

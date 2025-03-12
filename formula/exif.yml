@@ -1,0 +1,5 @@
+summary: A command-line tool to read, write, modify, and display EXIF data
+webpage: https://libexif.github.io/
+version: 0.6.22
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/exif-0.6.22-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 4572fe9cdfea8cef4b73e65817e27a429e5b2997bc016c0c93fbd74d37811ca8

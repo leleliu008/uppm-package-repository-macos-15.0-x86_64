@@ -1,0 +1,5 @@
+summary: Library for large linear classification
+webpage: https://www.csie.ntu.edu.tw/~cjlin/liblinear/
+version: 2.47
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/liblinear-2.47-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 4ec86a35c621991df91c7f4cd9667f4cc8f5c57087df51dbd53094602f84a7fa

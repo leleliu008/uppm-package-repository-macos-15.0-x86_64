@@ -1,0 +1,5 @@
+summary: Command-line interface built-in Visual Studio Code
+webpage: https://github.com/microsoft/vscode
+version: 1.90.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/code-cli-1.90.1-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 869848ac07ade5825efaf743c8ff8dea19c901f82abacf5c00bb80d1ef462d73

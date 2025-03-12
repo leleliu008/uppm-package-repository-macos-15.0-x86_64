@@ -1,0 +1,5 @@
+summary: Ogg Bitstream Library
+webpage: https://www.xiph.org/ogg
+version: 1.3.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libogg-1.3.5-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 913537442c8b50b5271629fa8bad9356a1ef20b1e2f7721c90d8875d4742a6f4

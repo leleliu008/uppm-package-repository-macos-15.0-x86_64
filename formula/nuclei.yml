@@ -1,0 +1,5 @@
+summary: HTTP/DNS scanner configurable via YAML templates
+webpage: https://nuclei.projectdiscovery.io/
+version: 3.2.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/nuclei-3.2.8-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: d5857e27fa326e6b8f9fa644edf338a8e6f38abf19ef2acaa4873ced8d9470f1

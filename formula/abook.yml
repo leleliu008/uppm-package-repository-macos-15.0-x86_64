@@ -1,0 +1,5 @@
+summary: Address book with mutt support
+webpage: https://abook.sourceforge.io/
+version: 0.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/abook-0.6.1-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 76f3456b600afe33971cb3e77e0398287ff2728a621813bdda0d51834bede244

@@ -1,0 +1,5 @@
+summary: Vorbis General Audio Compression Codec
+webpage: https://xiph.org/vorbis
+version: 1.3.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libvorbis-1.3.7-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: defc838425d919e2cbd7ef216012d5e1377afed5951b110d1f4546df88d5f8e2

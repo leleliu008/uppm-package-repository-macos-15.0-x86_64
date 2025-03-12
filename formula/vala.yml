@@ -1,0 +1,5 @@
+summary: Compiler for the GObject type system
+webpage: https://wiki.gnome.org/Projects/Vala
+version: 0.56.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/vala-0.56.17-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 68efedc4499393329804b24277ed732d69b1e74be6c55ab1a5df7f857ae61b80

@@ -1,0 +1,5 @@
+summary: A go-lang supervisor implementation
+webpage: https://github.com/ochinchina/supervisord
+version: 0.7.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/supervisord-0.7.3-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 3ffa81fad3591e9418c9802e30b9a0a60f5ce5ddf710917eccbd46f771526d88

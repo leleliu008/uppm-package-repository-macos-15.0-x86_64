@@ -1,0 +1,5 @@
+summary: Toolkit library for asynchronous network I/O with protocol stacks
+webpage: https://github.com/baresip/re
+version: 3.12.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libre-3.12.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: c6e7d08e9d304759afcf6dffc810870e7e250377d09dc5aab3cbcf273fadbabc

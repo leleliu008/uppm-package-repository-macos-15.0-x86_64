@@ -1,0 +1,5 @@
+summary: memory-safe and OpenSSL-compatible TLS library
+webpage: https://mesalink.io
+version: 2025.03.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libmesalink-2025.03.11-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 83c520d7c2d83cb1fac26ae72fcda3f456883e678e4ba8effb1443adce60e31c

@@ -1,0 +1,5 @@
+summary: Library for converting WMF (Window Metafile Format) files
+webpage: https://wvware.sourceforge.net/libwmf.html
+version: 0.2.8.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libwmf-0.2.8.4-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 7e10a54c61246c497d080945cef8fd9e262672bda327f777b9009b43377e4fdd

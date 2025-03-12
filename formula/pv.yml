@@ -1,0 +1,5 @@
+summary: Monitor data progress through a pipe
+webpage: https://www.ivarch.com/programs/pv.shtml
+version: 1.8.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/pv-1.8.10-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 5ca538cbd95cd5f21ec0ce225394f912ac5af46e9211b5240ad95d0e42813be3

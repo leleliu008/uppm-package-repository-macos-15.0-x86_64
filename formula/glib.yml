@@ -1,0 +1,5 @@
+summary: A general-purpose, portable utility library which provides many useful data types, macros, type conversions, string utilities, file utilities, a mainloop abstraction, and so on
+webpage: https://developer.gnome.org/glib
+version: 2.82.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/glib-2.82.4-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 5311e3eafe4a5a84ccce040e6e502a6f4f924fd250681a38855acb8195bc3092

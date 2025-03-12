@@ -1,0 +1,5 @@
+summary: An extraordinarily fast, memory-efficient, memory-mapped, key-value database
+webpage: https://symas.com/lmdb
+version: 0.9.32
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/liblmdb-0.9.32-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: f53677b6edb1c119736044bedadeaa679749bc592784f12dfc1c4e0cfa29269f

@@ -1,0 +1,5 @@
+summary: A command-line JSON viewer designed for reading, exploring, and searching through JSON data
+webpage: https://jless.io/
+version: 0.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/jless-0.9.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 14b619a810085ae202c4897f0ba99cb820652604e87ccf040ff70ff7f1430ab9

@@ -1,0 +1,5 @@
+summary: International domain name library (IDNA2008, Punycode and TR46)
+webpage: https://www.gnu.org/software/libidn/#libidn2
+version: 2.3.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libidn2-2.3.7-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 6923f420269c09945a97e59ca56696bb90e3fa001cf85f1fb889ac46b9151ff2

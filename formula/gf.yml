@@ -1,0 +1,5 @@
+summary: App development framework of Golang
+webpage: https://goframe.org
+version: 2.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/gf-2.7.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 33c5250c280a310add247bb4470e8928c75386a697845156002837459d2aa096

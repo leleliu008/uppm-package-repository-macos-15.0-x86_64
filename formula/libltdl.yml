@@ -1,0 +1,5 @@
+summary: A small library aims at hiding the various difficulties of dlopening libraries from programmers
+webpage: https://www.gnu.org/software/libtool
+version: 2.5.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libltdl-2.5.4-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 146122df3df85910325da6945e0a21598bf883a237eafb99f990bb628e018254

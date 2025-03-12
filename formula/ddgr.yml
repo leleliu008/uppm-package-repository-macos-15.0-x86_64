@@ -1,0 +1,5 @@
+summary: DuckDuckGo from the terminal
+webpage: https://github.com/jarun/ddgr
+version: 2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/ddgr-2.2-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 808ceba2a458f42787fb3ef594c32a613308dbbb9877baa6270bbfc40ae80e0c

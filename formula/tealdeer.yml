@@ -1,0 +1,5 @@
+summary: A very fast implementation of tldr in Rust
+webpage: https://github.com/dbrgn/tealdeer
+version: 1.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/tealdeer-1.6.1-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 79be15bb100e94eddc6fd35f062d635e62482ccfa8b859f0a8dfaf483e970e75

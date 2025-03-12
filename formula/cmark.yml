@@ -1,0 +1,5 @@
+summary: The C reference implementation of CommonMark
+webpage: https://commonmark.org/
+version: 0.31.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/cmark-0.31.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 9048b51e26800643e1772ed4c9d7f7f0eede2ef3a0d61fce5787117b3391981b

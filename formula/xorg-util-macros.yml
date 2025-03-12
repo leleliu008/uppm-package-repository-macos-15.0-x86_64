@@ -1,0 +1,5 @@
+summary: A set of autoconf macros used to build other xorg packages
+webpage: https://www.x.org/
+version: 1.20.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/xorg-util-macros-1.20.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 85101ece9c4f05293e7dd967a76238350d98f5c50c04cee0498cffb6827d040f

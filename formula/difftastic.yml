@@ -1,0 +1,5 @@
+summary: A structural diff tool that compares files based on their syntax
+webpage: https://github.com/Wilfred/difftastic
+version: 0.57.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/difftastic-0.57.0-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: e8fd643ec15fc9672657a340b8bc856fc2aff2b891061a189c425504fb0011ac

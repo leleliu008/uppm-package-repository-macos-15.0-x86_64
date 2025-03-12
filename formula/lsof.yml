@@ -1,0 +1,5 @@
+summary: A command-line tool to list open files
+webpage: https://people.freebsd.org/~abe
+version: 4.99.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/lsof-4.99.3-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 248e72c3f7a6ed2ba6d2b4456d206106f67a351d9e2925d1167e2fef815683a5

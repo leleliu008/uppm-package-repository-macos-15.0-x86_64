@@ -1,0 +1,5 @@
+summary: New GNU portable threads library
+webpage: https://www.gnupg.org
+version: 1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libnpth-1.7-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 99dadc578f9dbdb2eaf3c8598690388950e448cfd50d11e8a055a859c1f443fc

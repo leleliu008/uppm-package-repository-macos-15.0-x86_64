@@ -1,0 +1,5 @@
+summary: Numeric library for complex error functions
+webpage: https://jugit.fz-juelich.de/mlz/libcerf
+version: 2.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64/releases/download/2025.03.12/libcerf-2.4-MacOSX-15.0-x86_64.release.tar.xz
+bin-sha: 88b6170e710b186a8649874852ef26c27dbce63ab95464c5b9cf9f7e3622fd79
